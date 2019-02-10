@@ -1,0 +1,27 @@
+
+C:\>changext.exe
+
+Autor:     LogX ECDESA (logx@ecdesa.com).
+changext:  It changes files extension "EXT1" to "EXT2" in the directory "DIR".
+Parameters:
+           DIR:  Required. Directory to change extensions.
+           EXT1: Required. Extension to substitute.
+           EXT2: Required. New extension.
+Returns:
+           0: Operation sucessfully completed.
+           1: Parameters wrong.
+           2: Directory doesn't exist.
+           3: One or more files couldn't be changed.
+
+C:\>changext.exe . .tpt .txt
+3/3/2012 13:22:54 - Initializing changext...
+3/3/2012 13:22:54 - Checking directory "."...OK.
+3/3/2012 13:22:54 - Listing files ".tpt" in directory "."...
+3/3/2012 13:22:54 - 3 files found.
+3/3/2012 13:22:54 - Changing "text1.tpt" to "text1.txt"...OK.
+3/3/2012 13:22:54 - Changing "text2.tpt" to "text2.txt"...OK.
+3/3/2012 13:22:54 - Changing "text3.tpt" to "text3.txt"...OK.
+3/3/2012 13:22:54 - 3 files changed.
+3/3/2012 13:22:54 - changext finished.
+
+C:\>
