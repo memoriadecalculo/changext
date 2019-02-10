@@ -29,3 +29,7 @@ This version was developed under `GPL versão 3 <http://pt.wikipedia.org/wiki/GN
 
 Basically, it was developed using the `Pascal <https://en.wikipedia.org/wiki/Pascal_(programming_language)>`_ as backend and
 `Delphi IDE <https://en.wikipedia.org/wiki/Delphi_(IDE)>`_ as frontend for `Windows <https://en.wikipedia.org/wiki/Microsoft_Windows>`_ Operating System.
+
+Download
+========
+`Version 1.0.0.0 <https://github.com/memoriadecalculo/changext/blob/master/ChangExt_v1.0.0.0.exe>`_
